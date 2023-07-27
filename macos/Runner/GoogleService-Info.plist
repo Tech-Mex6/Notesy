@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>971979232165-uj650dq26hdq0dcscod0c9q7uivt3kf7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.971979232165-uj650dq26hdq0dcscod0c9q7uivt3kf7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnJc4_Lu9i-L4cGUhRS5QSFG7J4Ge1o9s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>971979232165</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.meekam.notesy.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>notesy-flutter-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notesy-flutter-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:971979232165:ios:5e4a31b349c6878ca00e4c</string>
+</dict>
+</plist>
